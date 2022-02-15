@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=d6ace6&height=200&section=header&text=EUSUNN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:D7C0F5,100:8B69F5&height=200&section=header&text=EUSUNN&fontSize=80&fontColor=FFFFFF)
 <!--
 **eusunn/eusunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,5 +40,10 @@ Here are some ideas to get you started:
 
  </div>
 
+<div><h1>✨Project</h1></div>
+ <div align=center>
+  😄 <a href="https://github.com/eusunn/ShinwooUniversity" target="_blank">ShinwooUniversity : eBook 도서 대출 시스템</a>
   
+  😄 <a href="https://github.com/CODEUS-Groupware/CODEUS-Groupware" target="_blank"> CODEUS : 그룹웨어 - 통합업무 플랫폼 (Spring Framework 기반 웹 프로젝트) </a>
+ </div>
 
